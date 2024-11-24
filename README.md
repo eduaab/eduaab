@@ -40,7 +40,7 @@ Oi, me chamo Eduardo Albuquerque Alves Barbosa, tenho 20 anos e moro em Recife-P
 
 ##
 
-### Linguagens de programação que estou aprendendo
+### Linguagens que estou aprendendo
 
 <div style="display: inline_block"><br>
   <br>
