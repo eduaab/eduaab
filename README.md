@@ -23,7 +23,7 @@ Oi, me chamo Eduardo Albuquerque Alves Barbosa, tenho 20 anos e moro em Recife-P
     <img 
     alt="Linguagens Mais Usadas" 
     height="100" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduaab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduaab&theme=tokyonight&layout=compact&custom_title=Linguagens mais usadas&langs_count=9" 
   />
 </p>
 
