@@ -1,37 +1,25 @@
-## Eduardo Alves
+# Olá, eu sou Eduardo Albuquerque! 👋
 
-**`Estudante`**
+Estudante de **Ciência da Computação na CESAR School** (2024-2028) focado em Desenvolvimento Full-Stack.
 
-Oi, me chamo Eduardo Albuquerque Alves Barbosa, tenho 20 anos e moro em Recife-PE. Atualmente, sou estudante de Ciência da Computação na CESAR School
+## 🚀 Sobre mim
+- 💻 Desenvolvedor com experiência em **Python (Django)**, **Java (Spring Boot)** e **C (Raylib)**.
+- 📍 Localizado em Recife-PE.
 
-##
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, Java, C/C++, JavaScript, HTML/CSS.
+- **Frameworks/Libs:** Django, Spring Boot, Raylib.
+- **Bancos de Dados:** PostgreSQL, SQLite, SQL.
+- **Ferramentas:** Git, Docker, Jira, Cypress.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eduaab&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eduaan&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=eduaab&show_icons=true" />
-</picture>
+## 📂 Projetos em Destaque
+- **SteamView:** Dashboard de análise de mercado de games usando Django e APIs REST.
+- **Looping:** Aplicação de inteligência de dados desenvolvida para o SEBRAE com Spring Boot.
+- **Ecos DaInfância:** Jogo desenvolvido em C (Raylib) integrado com a API Gemini.
 
-
-<p>
-    <img 
-    alt="Linguagens Mais Usadas" 
-    height="100" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduaab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-##
-
+## 📫 Entre em contato
 <div> 
-  <a href="https://instagram.com/edualves1901" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardoaa1901@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardoaab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="https://www.linkedin.com/in/eduardoaab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:eduardoaa1901@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://instagram.com/edualves1901" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
