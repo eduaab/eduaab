@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Eduardo 👋</h1>
 
 <p align="center">
-  ☕ Desenvolvedor Back-End Java &nbsp;|&nbsp; 🎓 Ciência da Computação na CESAR School &nbsp;|&nbsp; 📍 Recife-PE
+  ☕ Desenvolvedor Back-End Java &nbsp;|&nbsp; 🎓 Ciência da Computação na CESAR School - 5° período &nbsp;|&nbsp; 📍 Recife-PE
 </p>
 
 <p align="center">
