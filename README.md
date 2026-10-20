@@ -23,7 +23,7 @@
 
 ## 🛠️ Tecnologias
 
-**Linguagens**
+**Linguagens Programação**
 
 <img src="https://skillicons.dev/icons?i=java,py,c&theme=dark" />
 
@@ -35,6 +35,10 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+
+**Front-End**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
 **Banco de Dados**
 
