@@ -1,25 +1,77 @@
-# Olá, eu sou Eduardo Albuquerque! 👋
+<h1 align="center">Olá, eu sou o Eduardo 👋</h1>
 
-Estudante de **Ciência da Computação na CESAR School** (2024-2028) focado em Desenvolvimento Full-Stack.
+<p align="center">
+  ☕ Desenvolvedor Back-End Java &nbsp;|&nbsp; 🎓 Ciência da Computação na CESAR School &nbsp;|&nbsp; 📍 Recife-PE
+</p>
 
-## 🚀 Sobre mim
-- 💻 Desenvolvedor com experiência em **Python (Django)**, **Java (Spring Boot)** e **C (Raylib)**.
-- 📍 Localizado em Recife-PE.
+<p align="center">
+  <a href="https://linkedin.com/in/eduardoaab"><img src="https://img.shields.io/badge/LinkedIn-eduardoaab-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:eduardoaa1901@gmail.com"><img src="https://img.shields.io/badge/Gmail-eduardoaa1901@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, Java, C/C++, JavaScript, HTML/CSS.
-- **Frameworks/Libs:** Django, Spring Boot, Raylib.
-- **Bancos de Dados:** PostgreSQL, SQLite, SQL.
-- **Ferramentas:** Git, Docker, Jira, Cypress.
+---
 
-## 📂 Projetos em Destaque
-- **SteamView:** Dashboard de análise de mercado de games usando Django e APIs REST.
-- **Looping:** Aplicação de inteligência de dados desenvolvida para o SEBRAE com Spring Boot.
-- **Ecos DaInfância:** Jogo desenvolvido em C (Raylib) integrado com a API Gemini.
+## 👨‍💻 Sobre mim
 
-## 📫 Entre em contato
-<div> 
-  <a href="https://www.linkedin.com/in/eduardoaab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:eduardoaa1901@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/edualves1901" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+- 🎓 **Formação:** Ciência da Computação — CESAR School
+- ☕ **Foco:** Desenvolvimento back-end com Java e Spring
+- 🤝 **Projetos:** Soluções em equipe para clientes reais, como SEBRAE e ONGs
+- 📚 **Monitorias:** Banco de Dados e Programação Imperativa e Funcional
+- 🏆 **Hackathon:** Avanade — solução para o desafio de um cliente real
+
+---
+
+## 🛠️ Tecnologias
+
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=java,py,c&theme=dark" />
+
+**Back-End**
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+
+**Banco de Dados**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" />
+
+**Ferramentas e Metodologias**
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,figma&theme=dark" />
+<br>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white" />
+<img src="https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logo=trello&logoColor=white" />
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🦁 [**SpringZoo**](https://github.com/eduaab/SpringZoo) | API REST para gestão de um zoológico: animais, espécies, recintos, tratadores, rotinas de alimentação e atendimentos veterinários, com autenticação JWT e controle de acesso por perfil. | Java, Spring Boot, Spring Security, JPA, PostgreSQL |
+| 🛵 [**DevLivery**](https://github.com/GMiranda21ML/devlivery-db-cesarschool) | Aplicação de delivery que conecta clientes, restaurantes e entregadores, com pedidos, avaliações e relatórios. Banco versionado com Flyway, usando procedures, triggers e views. | Java 21, Spring Boot, JWT, MySQL, Flyway |
+| 📊 [**Looping — SEBRAE**](https://github.com/GMiranda21ML/SEBRAE-GP4) | Plataforma desenvolvida para o SEBRAE que automatiza a criação e o envio de pesquisas por e-mail, com perfis Admin e Usuário e uma área de análise das respostas. | Java, Spring Boot, Spring Security, JPA |
+| 🎮 [**SteamView**](https://github.com/GMiranda21ML/SteamView) | Aplicação web que consolida dados de jogos via Steam API e RAWG API, com busca, rankings e wishlist. | Python, Django |
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eduaab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduaab&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  💬 Fique à vontade para entrar em contato para conversar sobre oportunidades, projetos ou back-end em geral!
+</p>
